@@ -1,0 +1,15 @@
+D:\Patika\Lesson3\bin\Debug\net7.0\Lesson3.exe
+D:\Patika\Lesson3\bin\Debug\net7.0\Lesson3.deps.json
+D:\Patika\Lesson3\bin\Debug\net7.0\Lesson3.runtimeconfig.json
+D:\Patika\Lesson3\bin\Debug\net7.0\Lesson3.dll
+D:\Patika\Lesson3\bin\Debug\net7.0\Lesson3.pdb
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.csproj.AssemblyReference.cache
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfoInputs.cache
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.AssemblyInfo.cs
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.csproj.CoreCompileInputs.cache
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.dll
+D:\Patika\Lesson3\obj\Debug\net7.0\refint\Lesson3.dll
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.pdb
+D:\Patika\Lesson3\obj\Debug\net7.0\Lesson3.genruntimeconfig.cache
+D:\Patika\Lesson3\obj\Debug\net7.0\ref\Lesson3.dll
